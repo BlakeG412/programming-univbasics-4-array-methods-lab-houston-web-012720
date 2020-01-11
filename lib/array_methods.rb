@@ -1,6 +1,5 @@
 def using_include(array, element)
-array = ["nike", "adidas", "asic"]
-array.include?(element)
+  array.include?(element)
 end
 
 def using_sort(array)
